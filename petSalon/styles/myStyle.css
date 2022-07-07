@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+/* h2{
+    text-decoration: underline black;
+} */
+footer{
+display: flex;
+justify-content: center;
+}
+.display-1{
+    color: black;
+    text-align: center;
+    background-color: #FFDB58;
+    box-shadow: 0px 10px 15px 15px grey;
+}
+.nav-link{
+    color: white;
+}
+.sub_div {
+    text-align: center;
+}
+.flx-apart{
+    display: flex;
+    justify-content: space-between;
+}
+i.fa-trash-can{
+    color:red;
+}
+i.fa-pen-to-square{
+    color:green;
+}
+i.fa-dog{
+    color:white;
+}
+.welcome,
+.que, 
+main.container h2{
+    text-align: center;
+    margin-top: 40px;
+}
+#pet-cards{
+    margin-bottom: 20px;
+}
+.card{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.action{
+    display: flex;
+    justify-content: space-between;
+}
